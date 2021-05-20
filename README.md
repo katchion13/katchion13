@@ -1,5 +1,3 @@
-<br>
-<br>
 <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" align="right" width="300">
 <br>
 <br>
@@ -13,8 +11,8 @@ Githubはこれで3個目のアカウントですが、今まで全然使って�
 <br>
 <br>
 <br>
-* [個人のサイト・ブログ](http://philosophy.katchion.com/)
-* [ポートフォリオ](https://katiayanaguisawa.portfoliobox.net/his)
+* [個人のサイト・ブログ](http://philosophy.katchion.com/)<br>
+* [ポートフォリオ](https://katiayanaguisawa.portfoliobox.net/his)<br>
 <br>
 <br>
 <br>
