@@ -1,8 +1,10 @@
 <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" align="right" width="300">
 
-就職活動にGithubを動き始めました
+<b>就職活動にGithubを動き始めました</b>
 
-Githubはこれで3個目のアカウントですが、今まで全然使っていなかったのでこれから少しづつ動かしていきたいと思います！
+Githubはこれで3個目のアカウントですが、今まで全然使っていなかったのでこれから少しづつ動かしていきたいと思います。
+宜しくお願いします。
+
 
 * [個人のサイト・ブログ](http://philosophy.katchion.com/)
 * [ポートフォリオ](https://katiayanaguisawa.portfoliobox.net/his)
