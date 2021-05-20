@@ -1,7 +1,4 @@
 <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" align="right" width="300">
-<br>
-<br>
-<br>
 <b>就職活動にGithubを動かし始めました</b>
 <br>
 <br>
