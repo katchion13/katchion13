@@ -10,6 +10,4 @@ Githubは全然使っていなかったのでこれから少しづつ動かし�
 <br>
 * [個人のサイト・ブログ](http://philosophy.katchion.com/)<br>
 * [ポートフォリオ](https://katiayanaguisawa.portfoliobox.net/his)<br>
-<br>
-<br>
 </html>
