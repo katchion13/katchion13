@@ -1,4 +1,3 @@
-<html>
 <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" align="right" width="300">
 <b>就職活動にGithubを動かし始めました</b>
 <br>
@@ -10,4 +9,5 @@ Githubは全然使っていなかったのでこれから少しづつ動かし�
 <br>
 * [個人のサイト・ブログ](http://philosophy.katchion.com/)<br>
 * [ポートフォリオ](https://katiayanaguisawa.portfoliobox.net/his)<br>
-</html>
+
+"# html"
