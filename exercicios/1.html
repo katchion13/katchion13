@@ -1,0 +1,121 @@
+<html><meta charset="utf-8"> 
+      <head>
+         <title>
+            Propriedades da árvore DOM      
+         </title>
+         
+         <script>
+            //nossas variáveis globais, que serão compartilhadas por todas as nossa funções 
+            var el; 
+            var nome;
+            var tipo;
+            var valor;
+            
+            function start()
+            { 
+               el = document.documentElement; //pega o elemento HTML, raiz do documento
+               nome = document.getElementById("nome"); //pega o elemento com o id nome
+               tipo = document.getElementById("tipo"); //pega o elemento com o id tipo
+               valor = document.getElementById("valor"); //pega o elemento com o id valor
+               mostra();
+             }
+            
+            function mostra() //exibe as informações
+            { 
+               nome.value = el.nodeName;
+               tipo.value = el.nodeType;
+               valor.value = el.nodeValue;
+            }
+            
+            function restart() //retorna para o elemento raiz
+           {
+               el = document.documentElement;
+               mostra();
+            }
+            
+            function primeiroFilho() // vai para o primeiro elemento filho
+            {
+                if(el.firstChild){
+                  el = el.firstChild;
+                 mostra();
+                }
+                else
+                   alert("O Elemento não possui filhos !");  
+            }
+            
+            function ultimoFilho() // vai para o último elemento filho
+            {
+                if(el.lastChild){
+                  el = el.lastChild;
+                  mostra();
+                }
+                else
+                   alert("O Elemento não possui filhos !");  
+            }
+            
+            function obterPai() // volta para o elemento pai
+            {
+               if(el.parentNode){
+                  el = el.parentNode;
+                  mostra();
+                }
+                else
+                   alert("O Elemento não possui Pai !");  
+            }
+            
+            function proximoIrmao() //vai para o irmão posterior
+            {
+                if(el.nextSibling){
+                  el = el.nextSibling;
+                  mostra();
+                }
+                else
+                   alert("O Elemento não possui um próximo irmão !");  
+            }
+            
+            function irmaoAnterior() //vai para o irmão anterior
+            {
+                if(el.previousSibling){
+                  el = el.previousSibling;
+                  mostra();
+                }
+                else
+                  alert("O Elemento não possui um irmão anterior !");  
+            }
+            
+         </script>
+         
+      </head>
+      
+      <body>
+      
+            <form>
+               <fieldset>
+                  <input type="button" name="next" value="Next Irmão" onClick="proximoIrmao();" />
+                  <input type="button" name="prev" value="Prev Irmão" onClick="irmaoAnterior();" />
+                  <input type="button" name="parent" value="Pai" onClick="obterPai();" />
+                  <input type="button" name="first" value="First Filho" onClick="primeiroFilho();" />
+                  <input type="button" name="last" value="Last Filho" onClick="ultimoFilho();" />
+                  <input type="button" name="reiniciar" value="Reiniciar" onClick="restart();" />
+                  
+                                                 <br/>
+                  Valor :<input type="text" name="valor" id="valor" value="" size="65" />
+                  <br/>
+   
+                  Tipo : <input type="text" name="tipo" id="tipo" value="" />
+                  <br/>
+   
+                  Nome do elemento:<input type="text" name="nome" id="nome" /> 
+               </fieldset>
+            </form>
+         
+
+      <img id="img1" title="Imagem 1" alt="Photo1" src="img-desktop.png" >
+ <br>
+      <img id="img2" title="Imagem 2" alt="Photo2" src="img-mobile.png" >
+    
+
+     </body>
+  </html>
+
+
