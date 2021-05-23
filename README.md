@@ -6,7 +6,6 @@ Githubは全然使っていなかったのでこれから少しづつ動かし�
 宜しくお願いします。
 <br>
 <br>
-<br>
 * [個人のサイト・ブログ](http://philosophy.katchion.com/)<br>
 * [ポートフォリオ](https://katiayanaguisawa.portfoliobox.net/his)<br>
 
