@@ -8,6 +8,7 @@ Githubは全然使っていなかったのでこれから少しづつ動かし�
 <br>
 * [個人のサイト・ブログ](http://philosophy.katchion.com/)<br>
 * [ポートフォリオ](https://katiayanaguisawa.portfoliobox.net/his)<br>
-
+<br>
+<br>
 BootStrapの練習: https://katchion13.github.io/HTML/exercicios/
 
