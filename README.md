@@ -27,7 +27,7 @@ https://katchion13.github.io/HTML/exercicios/<br>
     />
   </a>
 </p></div>
-
+ div{
 #ladoalado{
     display: flex; /* coloca as imagens uma ao lado da outra */
     justify-content: center; /* alinha as imagens no centro da tela */
