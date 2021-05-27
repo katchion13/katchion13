@@ -22,7 +22,7 @@ https://katchion13.github.io/HTML/exercicios/<br>
   </a>
   <a href="https://github.com/katchion13/github-readme-stats">
     <img
-      align="left"
+      align="right"
       src="https://github-readme-stats.vercel.app/api?username=katchion13&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
