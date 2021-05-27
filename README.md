@@ -19,8 +19,9 @@ https://katchion13.github.io/HTML/exercicios/<br>
   <a href="https://github.com/katchion13/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=katchion13&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"/>
   </a></div>
-
+<style type="text/css">
 #ladoalado{
-    display: flex; 
-    justify-content: center; 
-}
+   display:flex;
+   justify-content: space-around;
+   
+}</style>
