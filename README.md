@@ -28,5 +28,3 @@ https://katchion13.github.io/HTML/exercicios/<br>
     />
   </a>
 </p>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=katchion13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
