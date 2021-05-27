@@ -13,20 +13,13 @@ BootStrapの練習:<br>
 https://katchion13.github.io/HTML/exercicios/<br>
 <br>
 <br><div id="ladoalado">
-<p align="center">
   <a href="https://github.com/katchion13/github-readme-stats">
-    <img
-      align="left"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=katchion13&layout=compact"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katchion13&layout=compact"/>
   </a>
   <a href="https://github.com/katchion13/github-readme-stats">
-    <img
-      align="right"
-      src="https://github-readme-stats.vercel.app/api?username=katchion13&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p></div>
+    <img src="https://github-readme-stats.vercel.app/api?username=katchion13&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"/>
+  </a></div>
+
 #ladoalado{
     display: flex; 
     justify-content: center; 
