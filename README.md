@@ -4,8 +4,8 @@
 <br>
 Githubは全然使っていなかったので、これから少しづつ動かしていきたいと思います。<br>
 <br>
+* [ウェブポートフォリオ](https://katiayanaguisawa.portfoliobox.net/his)<br>
 * [個人のサイト・ブログ](http://philosophy.katchion.com/)<br>
-* [ポートフォリオ](https://katiayanaguisawa.portfoliobox.net/his)<br>
 <br>
   <a href="https://github.com/katchion13/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katchion13&layout=compact"/>
