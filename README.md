@@ -9,8 +9,5 @@ Githubは全然使っていなかったのでこれから少しづつ動かし�
 * [個人のサイト・ブログ](http://philosophy.katchion.com/)<br>
 * [ポートフォリオ](https://katiayanaguisawa.portfoliobox.net/his)<br>
 <br>
-BootStrapの練習:<br>
-https://katchion13.github.io/HTML/exercicios/<br>
-<br>
   <a href="https://github.com/katchion13/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katchion13&layout=compact"/>
