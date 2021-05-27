@@ -2,9 +2,7 @@
 <b>就職活動にGithubを動かし始めました</b>
 <br>
 <br>
-Githubは全然使っていなかったのでこれから少しづつ動かしていきたいと思います。<br>
-宜しくお願いします。
-<br>
+Githubは全然使っていなかったので、これから少しづつ動かしていきたいと思います。<br>
 <br>
 * [個人のサイト・ブログ](http://philosophy.katchion.com/)<br>
 * [ポートフォリオ](https://katiayanaguisawa.portfoliobox.net/his)<br>
