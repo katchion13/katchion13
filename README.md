@@ -1,3 +1,10 @@
+
+<style type="text/css">
+#ladoalado{
+   display:flex;
+   justify-content: space-around;}
+</style>
+
 <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" align="right" width="300">
 <b>就職活動にGithubを動かし始めました</b>
 <br>
@@ -19,9 +26,4 @@ https://katchion13.github.io/HTML/exercicios/<br>
   <a href="https://github.com/katchion13/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=katchion13&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"/>
   </a></div>
-<style type="text/css">
-#ladoalado{
-   display:flex;
-   justify-content: space-around;
-   
-}</style>
+
