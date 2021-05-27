@@ -12,7 +12,7 @@ Githubは全然使っていなかったのでこれから少しづつ動かし�
 BootStrapの練習:<br>
 https://katchion13.github.io/HTML/exercicios/<br>
 <br>
-<br>
+<br><div id="ladoalado">
 <p align="center">
   <a href="https://github.com/katchion13/github-readme-stats">
     <img
@@ -26,4 +26,9 @@ https://katchion13.github.io/HTML/exercicios/<br>
       src="https://github-readme-stats.vercel.app/api?username=katchion13&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
-</p>
+</p></div>
+
+#ladoalado{
+    display: flex; /* coloca as imagens uma ao lado da outra */
+    justify-content: center; /* alinha as imagens no centro da tela */
+}
