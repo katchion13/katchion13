@@ -14,13 +14,13 @@ https://katchion13.github.io/HTML/exercicios/<br>
 <br>
 <br>
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/katchion13/github-readme-stats">
     <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=katchion13&layout=compact"
     />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/katchion13/github-readme-stats">
     <img
       align="center"
       height="165"
@@ -28,3 +28,5 @@ https://katchion13.github.io/HTML/exercicios/<br>
     />
   </a>
 </p>
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=katchion13&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
