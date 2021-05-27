@@ -16,14 +16,13 @@ https://katchion13.github.io/HTML/exercicios/<br>
 <p align="center">
   <a href="https://github.com/katchion13/github-readme-stats">
     <img
-      align="center"
+      align="left"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=katchion13&layout=compact"
     />
   </a>
   <a href="https://github.com/katchion13/github-readme-stats">
     <img
-      align="center"
-      height="165"
+      align="left"
       src="https://github-readme-stats.vercel.app/api?username=katchion13&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
