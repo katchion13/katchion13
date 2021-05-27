@@ -27,8 +27,7 @@ https://katchion13.github.io/HTML/exercicios/<br>
     />
   </a>
 </p></div>
- div{
-.ladoalado{
+#ladoalado{
     display: flex; 
     justify-content: center; 
 }
