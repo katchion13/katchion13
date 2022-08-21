@@ -1,6 +1,6 @@
 <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" align="right" width="300">
 <br>
-<b>Githubは全然使っていなかったので、これから少しづつ動かしていきたいと思います。</b><br>
+<b>就活中のためSalesforceの勉強を始めました。データベースとkintoneをやっていたので、難しくはないがDBが好きなのとチャンス多めなので勉強します！</b><br>
 https://katiayanaguisawa.portfoliobox.net/his<br>
 <br>
   <a href="https://github.com/katchion13/github-readme-stats">
