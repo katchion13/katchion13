@@ -3,10 +3,7 @@
 <b>就活中のためSalesforceの勉強を始めました。<br>
  </b><br>
 https://katiayanaguisawa.portfoliobox.net/his<br>
-<br>
-  <a href="https://github.com/katchion13/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katchion13&layout=compact"/><br>
-  <br> <table>
+<br> <table>
   <tr>
     <td><a href="https://px.a8.net/svt/ejp?a8mat=3NGYQH+14HHWY+CO4+63OY9" rel="nofollow">
 <img border="0" width="350" height="80" alt="" src="https://www23.a8.net/svt/bgt?aid=220821209068&wid=001&eno=01&mid=s00000001642001025000&mc=1"></a>
