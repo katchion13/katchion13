@@ -1,6 +1,6 @@
 <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" align="right" width="300">
 <br>
-<b>就活中のためSalesforceの勉強を始めました。<br>
+<b>勉強用<br>
  </b><br>
 https://katiayanaguisawa.portfoliobox.net/his<br>
 <br> <table>
