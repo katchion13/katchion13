@@ -2,6 +2,8 @@
 <br>
 <b>ポートフォリオ</b><br>
 https://katiayanaguisawa.portfoliobox.net/his<br>
+<br>
+<a href="https://media.casinosecret.com/redirect.aspx?pid=3030&bid=1484"><img alt="" src="https://netrefer-a.akamaihd.net/casinosecret/202208011448_202207291414_JP_CasinoSecret_125x125.gif" border=0></img></a>
 <br> <table>
   <tr>
     <td><a href="https://px.a8.net/svt/ejp?a8mat=3NGYQH+14HHWY+CO4+63OY9" rel="nofollow">
